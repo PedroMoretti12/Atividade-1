@@ -1,0 +1,36 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+.A {
+    background-color: #FF00FF;
+    width: 500px;
+    height: 500px;
+}
+
+.B {
+    height: 50%;
+    width: 50%;
+    background-color: #FFFF00;
+}
+
+.texto {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: white;
+    font-weight: 700;
+    background-color: blue;
+}
+
+.D {
+    position: absolute;
+    height: 50vh;
+    background: rgb(150, 200, 20);
+    width: 50%;
+}
+
+.E {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(70,140,50);
+}
